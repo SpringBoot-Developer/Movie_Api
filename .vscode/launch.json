@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MovieApiApplication<Movie_Api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.movieflix.MovieApiApplication",
+            "projectName": "Movie_Api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
